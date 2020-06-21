@@ -36,9 +36,9 @@ When you are first setting up your personal workspace repository, you will need 
 1. Open the _View_ menu and select _Command Palette_
 2. Type in _Git: Add Remote_ and press enter with the option selected.
 3. Copy and paste the URL below into the text box that says "Provide repository URL" and press enter: 
- - https://github.com/COMP110-20ss2/course-material.git
+   - https://github.com/COMP110-20ss2/course-material.git
 4. When asked for "Remote name" type in:
- - upstream
+   - upstream
 5. Press enter.
 6. Open the _View_ menu and select _Command Palette_ once more
 7. Type in _Git: Fetch From All Remotes_ and press enter
